@@ -1,0 +1,8 @@
+#7
+A Haritha,7013428342,haritha@gmail.com
+Aruna,9059437290,aruna@x.com
+Bharath Simha Reddy,8790309820,bharath@3.com
+Bharath,8790309819,bharath@1.com
+Deva,9876502937,devasalar@gmail.com
+Padmavathi,9652251349,padmavathi@gmail.com
+Sainath reddy,8106792820,saireddy@gmail.com
